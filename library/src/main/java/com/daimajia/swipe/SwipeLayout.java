@@ -1648,6 +1648,6 @@ public class SwipeLayout extends FrameLayout {
             layoutLayDown();
         }
 
-        safeBottomView();
+        //safeBottomView();
     }
 }
